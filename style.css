@@ -15,7 +15,7 @@ body {
     }
     /* Logo */
     .logo img {
-    height: 50px;
+    height: 100px;
     }
     /* Menu */
     .menu {
@@ -89,7 +89,4 @@ body {
     .tempo {
         display: flex;
         justify-content: end;
-
-
-
     }
