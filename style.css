@@ -4,6 +4,7 @@ body {
     padding: 0;
     font-family: Arial, sans-serif;
     }
+
     /* Estilos da barra de navegação */
     .navbar {
     display: flex;
@@ -13,11 +14,13 @@ body {
     padding: 10px 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
+    
     /* Logo */
     .logo img {
     height: 200px;
     justify-content: start;
     }
+
     /* Menu */
     .menu {
     list-style: none;
@@ -26,9 +29,11 @@ body {
     margin: 0;
     padding: 0;
     }
+
     .menu li {
     position: relative;
     }
+
     .menu a {
     text-decoration: none;
     color: blue;
@@ -36,16 +41,18 @@ body {
     padding: 10px 15px;
     transition: background-color 0.3s, color 0.3s;
     }
+
     /* Cor ao passar o mouse e ao clicar */
     .menu a:hover {
-    background-color: rgb(220, 243, 116);
+    background-color: rgb(116, 129, 243);
     color: white;
     
     }
     .menu a:active {
-    background-color: rgb(214, 228, 85);
+    background-color: rgb(116, 129, 243);
     color: white;
     }
+    
     /* Dropdown */
     .dropdown-content {
     display: none;
@@ -58,32 +65,38 @@ body {
     padding: 0;
     margin: 0;
     }
+
     .dropdown-content li {
     width: 200px;
     }
+
     .dropdown-content li a {
     display: block;
     padding: 10px;
     color: blue;
     text-decoration: none;
     }
+
     .dropdown-content li a:hover {
     background-color: lightblue;
     color: white;
     }
+
     .dropdown:hover .dropdown-content {
     display: block;
     }
+
     /* Links das redes sociais */
     .social-links {
     display: flex;
     gap: 10px;
     }
+
     .social-links img {
     height: 30px;
     transition: transform 0.3s;
-    
     }
+
     .social-links img:hover {
     transform: scale(1.1);
     }
