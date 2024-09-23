@@ -15,7 +15,8 @@ body {
     }
     /* Logo */
     .logo img {
-    height: 100px;
+    height: 200px;
+    justify-content: start;
     }
     /* Menu */
     .menu {
