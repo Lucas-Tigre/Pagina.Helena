@@ -18,7 +18,7 @@ body {
     /* Logo */
     .logo img {
     height: 200px;
-    justify-content: start;
+    justify-content: end;
     }
 
     /* Menu */
@@ -52,7 +52,7 @@ body {
     background-color: rgb(116, 129, 243);
     color: white;
     }
-    
+
     /* Dropdown */
     .dropdown-content {
     display: none;
@@ -103,5 +103,5 @@ body {
     
     .Tempo {
         display: flex;
-        justify-content: flex-end;
+        justify-content: start;
     }
