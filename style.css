@@ -38,12 +38,12 @@ body {
     }
     /* Cor ao passar o mouse e ao clicar */
     .menu a:hover {
-    background-color: lightblue;
+    background-color: rgb(220, 243, 116);
     color: white;
     
     }
     .menu a:active {
-    background-color: darkblue;
+    background-color: rgb(214, 228, 85);
     color: white;
     }
     /* Dropdown */
@@ -90,5 +90,5 @@ body {
     
     .Tempo {
         display: flex;
-        justify-content: end;
+        justify-content: flex-end;
     }
