@@ -107,3 +107,11 @@ body {
         justify-content: flex-start;
       align-items: end;
     }
+
+    .fundo.pg{
+
+        display: flex;
+        justify-content: center;
+
+
+    }
