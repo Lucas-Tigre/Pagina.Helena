@@ -101,6 +101,7 @@ body {
     transform: scale(1.1);
     }
     
+    /* barra de clima */
     .Tempo {
         display: flex;
         justify-content: end;
