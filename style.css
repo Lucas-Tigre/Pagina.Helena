@@ -103,6 +103,6 @@ body {
     
     /* barra de clima */
     .Tempo {
-        display: flex-end ;
-        justify-content: end;
+        display: flexbox ;
+        justify-content: flex-end;
     }
