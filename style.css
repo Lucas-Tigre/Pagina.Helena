@@ -18,7 +18,7 @@ body {
     /* Logo */
     .logo img {
     height: 200px;
-    justify-content: end;
+    justify-content: start;
     }
 
     /* Menu */
@@ -103,5 +103,5 @@ body {
     
     .Tempo {
         display: flex;
-        justify-content: start;
+        justify-content: end;
     }
