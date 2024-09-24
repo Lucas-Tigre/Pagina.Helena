@@ -31,7 +31,7 @@ body {
     }
 
     .menu li {
-    position: center;
+    position: relative;
     }
 
     .menu a {
