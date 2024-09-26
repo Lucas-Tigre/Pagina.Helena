@@ -110,15 +110,13 @@
       align-items: end;
     }
 
-    /* fundo da pg */
-    .fundo.pg{
-
-        display: flex;
-        justify-content: center;
-        background-image: none;
-        
+    
+    main{
+  
+      background-image: url(fundo.png);
     }
-
+    /* fundo da pg */
+    
     .QUAt{
 
       display: flex;
