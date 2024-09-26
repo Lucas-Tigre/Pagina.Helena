@@ -117,17 +117,19 @@
       background-repeat: no-repeat;
     }
    
-    /* fundo da pg */
-    
+     /* Texto Informativo */
     .QUAt{
     
       justify-content: start;   
     }
 
+    /* Texto Informativo */
     .ARSt{
   
-      justify-content: end;
+      justify-content: flex-end;
       align-items: flex-end;
+
+     
     }
 
    
