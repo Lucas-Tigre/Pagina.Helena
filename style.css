@@ -115,12 +115,18 @@
 
         display: flex;
         justify-content: center;
+        background: fixed;
         
+    }
+
+    .QUAt{
+
+      justify-content: flex-start; 
+      align-items: center;
+
 
     }
 
-    /* texto 1 quadra */
-    .Testo
 
     
     
