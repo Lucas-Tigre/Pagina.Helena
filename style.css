@@ -23,8 +23,9 @@
 
     /* conta */
     .conta-helena {
-      height: 20px;
+      height: 50px;
       justify-content: flex-start;
+      width: 20px;
       }
 
     /* Menu */
@@ -138,8 +139,10 @@
 
     .suporte{
 
-      justify-content: end;
+      justify-content: flex-end;
     }
+
+    
    
 
 
