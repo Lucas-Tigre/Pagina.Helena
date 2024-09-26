@@ -108,12 +108,16 @@ body {
       align-items: end;
     }
 
+    /* fundo da pg */
     .fundo.pg{
 
         display: flex;
         justify-content: center;
-
+        background-attachment: fixed;
 
     }
+
+    /* texto 1 quadra */
+    
 
     
