@@ -121,17 +121,18 @@
     
     .QUAt{
     
-      height: 100px;
-      justify-content: start; 
-    
+      justify-content: start;   
     }
 
     .ARSt{
   
-      height: 100px;
+      flex-direction: row-reverse;
+      flex-direction: column;
       justify-content: end;
       align-items: flex-end;
     }
+
+   
 
 
     
