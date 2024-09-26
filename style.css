@@ -131,7 +131,7 @@
 
     .ARSt{
 
-      display: flex;
+      display: end;
       justify-content: end;
       align-items: flex-end;
 
