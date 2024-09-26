@@ -16,10 +16,16 @@
     }
     
     /* Logo */
-    .logo img {
+    .logo {
     height: 200px;
     justify-content: start;
     }
+
+    /* conta */
+    .conta-helena {
+      height: 50px;
+      justify-content: flex-start;
+      }
 
     /* Menu */
     .menu {
@@ -108,7 +114,7 @@
       align-items: end;
     }
 
-    
+    /*corpo da pg*/
     main{
   
       background-image: url(fundo.png);
