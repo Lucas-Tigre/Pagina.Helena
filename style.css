@@ -128,10 +128,12 @@
   
       justify-content: flex-end;
       align-items: flex-end;
-
-     
     }
 
+    .suporte{
+
+      justify-content: end;
+    }
    
 
 
