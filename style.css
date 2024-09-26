@@ -95,12 +95,10 @@
     .social-links img {
     height: 30px;
     transition: transform 0.3s;
-
     }
 
     .social-links img:hover {
     transform: scale(1.1);
-
     }
     
     /* barra de clima */
@@ -123,16 +121,14 @@
     
     .QUAt{
 
-      justify-content: flex-start; 
-      align-items: center;
-
+      justify-content: start; 
+    
     }
 
     .ARSt{
    
       justify-content: end;
       align-items: flex-end;
-
     }
 
 
