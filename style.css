@@ -123,15 +123,13 @@
     
     .QUAt{
 
-      display: flex;
       justify-content: flex-start; 
       align-items: center;
 
     }
 
     .ARSt{
-
-      display: end;
+   
       justify-content: end;
       align-items: flex-end;
 
