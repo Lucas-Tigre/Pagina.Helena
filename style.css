@@ -121,9 +121,18 @@
 
     .QUAt{
 
+      display: flex;
       justify-content: flex-start; 
       align-items: center;
 
+    }
+
+    .ARSt{
+
+
+      display: flex;
+      justify-content: flex-end;
+      align-items: flex-end;
 
     }
 
