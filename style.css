@@ -114,10 +114,11 @@
     main{
   
       background-image: url(fundo.png);
-      background-size: cover;
+      background-size: auto;
       background-position: center;
       background-repeat: no-repeat;
     }
+   
     /* fundo da pg */
     
     .QUAt{
@@ -129,7 +130,6 @@
     }
 
     .ARSt{
-
 
       display: flex;
       justify-content: end;
