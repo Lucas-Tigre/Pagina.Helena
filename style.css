@@ -137,20 +137,7 @@
 
     }
 
-    .item{
-
-      transition: .35s;
-      cursor: pointer;
-
-    }
-
-    .conteiner:hover > :not(:hover){
-
-      opacity: 4;
-      transform: scale(0.9);
-
-
-    }
+   
 
     
     
