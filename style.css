@@ -136,8 +136,8 @@
       justify-content: flex-end;
     }
 
-    
-   
+    .rodape {
 
-
-    
+      background-color: rgb(58, 58, 58);
+      padding: 10px 20px;
+    }
