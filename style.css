@@ -60,7 +60,7 @@
     top: 40px;
     left: 0;
     background-color: rgb(193, 193, 215);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0, 1);
     list-style: none;
     padding: 0;
     margin: 0;
@@ -109,9 +109,10 @@
     }
 
     /*corpo da pg*/
-    main {
+    main {}
+
   
-    }
+  
    
      /* Texto Informativo */
     .QUAt {
@@ -138,3 +139,4 @@
       background-color: rgb(58, 58, 58);
       padding: 70px 50px;
     }
+
