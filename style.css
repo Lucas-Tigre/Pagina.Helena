@@ -10,9 +10,9 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #ffffff48;
+    background-color: #000000;
     padding: 10px 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.164);
     }
     
     /* Logo */
@@ -108,12 +108,6 @@
         justify-content: flex-start;
         align-items: end;
     }
-
-    /*corpo da pg*/
-    main {}
-
-  
-  
    
      /* Texto Informativo */
     .QUAt {
