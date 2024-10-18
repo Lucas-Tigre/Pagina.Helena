@@ -194,3 +194,16 @@
   background-color: rgba(0, 0, 0, 0.8);
 }
 
+.areasverddes{
+
+  display: flex;
+  justify-content: center;
+}
+
+.textoquadra{
+
+  display: flex;
+  justify-content: flex-end;
+
+
+}
