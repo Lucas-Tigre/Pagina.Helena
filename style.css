@@ -48,7 +48,7 @@
     color: rgb(255, 255, 255);
     
     }
-    .menu a:active {
+    .menu a:active {/* Texto Informativ
     background-color: rgb(0, 0, 0);
     color: white;
     }
@@ -124,14 +124,23 @@
       align-items: flex-end;
     }
 
-    /* Suporte botão */
-    .suporte {
-
-      display: flex;
-      justify-content: flex-end; 
-      justify-content: flex-end; 
-
+    body {
+      margin: 0;
+      padding: 0;
+      height: 100vh; /* Para garantir que o body ocupe toda a altura da tela */
     }
+  
+  .imagem-container {
+      position: fixed; /* Para que a imagem fique fixa na tela */
+      bottom: 0; /* Posiciona no fundo */
+      right: 0; /* Posiciona à direita */
+      margin: 10px; /* Espaçamento da borda da tela */
+  }
+  
+  img {
+      max-width: 100px; /* Ajuste o tamanho da imagem conforme necessário */
+      height: auto; /* Mantém a proporção da imagem */
+  }
 
     .rodape {
 
