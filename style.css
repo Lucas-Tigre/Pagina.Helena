@@ -45,11 +45,11 @@
     /* Cor ao passar o mouse e ao clicar */
     .menu a:hover {
     background-color: rgb(0, 0, 0);
-    color: rgba(0, 0, 0, 0.343);
+    color: rgb(255, 255, 255);
     
     }
     .menu a:active {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
     color: white;
     }
 
