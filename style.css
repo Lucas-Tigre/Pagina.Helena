@@ -124,17 +124,17 @@
       align-items: flex-end;
     }
 
-    /* Suporte botão */
-    .suporte {
-
-      display: flex;
-      justify-content: flex-end; 
-      align-items: center;
-    }
-
     .rodape {
 
       background-color: rgb(58, 58, 58);
       padding: 50px 50px;
+    }
+
+    .rodTXT {
+
+
+
+
+
     }
 
