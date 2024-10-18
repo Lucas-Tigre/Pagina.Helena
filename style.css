@@ -127,13 +127,15 @@
     .rodape {
 
       background-color: rgb(58, 58, 58);
-      padding: 50px 50px;
+      padding: 20px 0px;
     }
 
+    /*escrita rodape*/
     .rodTXT {
 
       height: 11px;
       color: #fcfcfc;
+      font-size: small;
 
     }
 
