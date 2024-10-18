@@ -58,15 +58,19 @@
     
     <!-- carrosel -->
 
-    <script src="https://cdn.jsdelivr.net/npm/swiffy-slider@1.6.0/dist/js/swiffy-slider.min.js" crossorigin="anonymous" defer></script>
-    <link href="https://cdn.jsdelivr.net/npm/swiffy-slider@1.6.0/dist/css/swiffy-slider.min.css" rel="stylesheet" crossorigin="anonymous">
+    <div class="carousel">
+        <div class="carousel-images">
+            <img src="01.png" alt="Imagem 1">
+            <img src="2.png" alt="Imagem 2">
+            <img src="3.png" alt="Imagem 3">
+        </div>
+        <button class="prev" onclick="moveCarousel(-1)">&#10094;</button>
+        <button class="next" onclick="moveCarousel(1)">&#10095;</button>
+    </div>
 
-    <div class="swiffy-slider">
-        <ul class="slider-container">
-            <li><img src="salimg.png" style="max-width: 100%;height: auto;"></li>
-            <li><img src="cent.png" style="max-width: 100%;height: auto;"></li>
-            <li><img src="imgest.png" style="max-width: 100%;height: auto;"></li>
-        </ul>
+</div>
+<script src="script.js"></script>
+
     
         <button type="button" class="slider-nav"></button>
         <button type="button" class="slider-nav slider-nav-next"></button>
